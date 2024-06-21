@@ -15,7 +15,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.maven.main.MavenMain</mainClass>
+							<mainClass>main.MavenMain</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
